@@ -1,6 +1,6 @@
 ## Olá eu sou Gabriel Manke
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Atualmente desenvolvo projetos pessoais focados em front-end.
 - 🌱 Estudando JavaScript
 
 <div> 
