@@ -64,7 +64,7 @@
   <img 
     alt="GitHub Stats" 
     width="400" 
-    src="https://github-readme-stats.vercel.app/api?username=Mankeya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[https://github-readme-stats.vercel.app/api?username=Mankeya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=Mankeya)" 
   />
   <img 
     alt="Top Langs" 
