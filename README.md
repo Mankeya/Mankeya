@@ -1,7 +1,7 @@
 ## Olá eu sou Gabriel Manke
 
-- 🔭 Atualmente desenvolvo projetos pessoais focados em front-end.
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente desenvolvo projetos pessoais focados em back-end.
+- 🌱 Estudando Java
 
 <div> 
   <a href="https://www.instagram.com/gabrielmankke/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,20 +49,3 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-<div style="display: flex; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    width="400" 
-    src="[https://github-readme-stats.vercel.app/api?username=Mankeya&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=Mankeya)" 
-  />
-  <img 
-    alt="Top Langs" 
-    width="360" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mankeya&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
-
-</p>
